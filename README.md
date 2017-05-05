@@ -4,7 +4,9 @@ Customer Communication Platform
 
 This project is closed. 
 
-For China users, please go to https://ppmesssage.cn, for non-China users, please go to https://ppmessage.com to use commercial online service. 
+Please go to https://ppmesssage.cn (https://ppmessage.com for non-China users) to use online commercial service. 
 
 Thanks,
-Guijin
+
+The PPMessage Owner
+Guijin Ding
